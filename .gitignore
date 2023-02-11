@@ -133,3 +133,4 @@ dmypy.json
 # Input and output files
 *.post
 *.xlsx
+00_Input/
